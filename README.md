@@ -23,4 +23,4 @@ Ensure you have the following installed:
 ### 📦 Install Dependencies  
 Run the following command to install all required Python libraries:  
 ```sh
-pip install flask requests requests-oauthlib oauthlib coloredlogs
+pip install -r requirements.txt
